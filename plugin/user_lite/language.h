@@ -280,7 +280,7 @@ language_container_t language_portuguese_br = {
         L"Cartao de memória",
         L"Armazenamento interno",
 	L"Opções de desenvolvedor",
-	L"Em espera",
+	L"Sem ação",
 	L"Reconfigurar as opções de armazenamento do YAMT",
 	L"Formatar o armazenamento GC-SD para TexFAT",
 	L"Montar sa0 e pd0 em modo Leitura-Escrita",

@@ -844,7 +844,7 @@ language_container_t language_portuguese_br = {
 	L"Aplicar patch no ux0 externo",
 	L"Desmarque esta opção caso não tenha um cartão de memória inserido",
 	L"Opções de desenvolvedor",
-	L"Em espera",
+	L"Sem ação",
 	L"Reconfigurar as opções de armazenamento do YAMT",
 	L"Formatar o armazenamento GC-SD para TexFAT",
 	L"Formatar o armazenamento USB/PSVSD para TexFAT",
