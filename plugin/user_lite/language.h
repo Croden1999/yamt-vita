@@ -272,18 +272,18 @@ language_container_t language_polish = {
 };
 
 language_container_t language_portuguese_br = {
-	L"Storage Devices",
-	L"Use YAMT",
-	L"Enables the YAMT driver",
-	L"Default",
-	L"SD2Vita",
-	L"Memory Card",
-	L"Internal Storage",
-	L"Developer options",
-	L"Idle",
-	L"Reset the YAMT storage config",
-	L"TexFAT format GC-SD's storage",
-	L"RW mount sa0 and pd0",
+        L"Dispositivos de armazenamento",
+        L"Usar YAMT",
+        L"Habilita o driver YAML",
+        L"Padrao",
+        L"SD2Vita",
+        L"Cartao de memória",
+        L"Armazenamento interno",
+	L"Opções de desenvolvedor",
+	L"Sem ação",
+	L"Reconfigurar as opções de armazenamento do YAMT",
+	L"Formatar o armazenamento GC-SD para TexFAT",
+	L"Montar sa0 e pd0 em modo Leitura-Escrita",
 };
 
 language_container_t language_english_gb = {
