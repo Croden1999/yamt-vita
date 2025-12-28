@@ -93,6 +93,7 @@ language_container_t language_japanese = {
 	L"Fail",
 };
 
+// By SKGleba
 language_container_t language_english_us = {
 	L"Storage Devices",
 	L"Use YAMT",
@@ -507,6 +508,7 @@ language_container_t language_korean = {
 	L"Fail",
 };
 
+// Translation provided by Croden1999
 language_container_t language_chinese_t = {
 	L"存儲設備",
 	L"使用YAMT",
@@ -553,6 +555,7 @@ language_container_t language_chinese_t = {
 	L"失敗",
 };
 
+// Translation provided by Croden1999
 language_container_t language_chinese_s = {
 	L"存储设备",
 	L"使用YAMT",
@@ -875,6 +878,7 @@ language_container_t language_portuguese_br = {
 	L"Fail",
 };
 
+// By SKGleba
 language_container_t language_english_gb = {
 	L"Storage Devices",
 	L"Use YAMT",

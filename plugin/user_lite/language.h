@@ -31,6 +31,7 @@ language_container_t language_japanese = {
 	L"RW mount sa0 and pd0",
 };
 
+// By SKGleba
 language_container_t language_english_us = {
 	L"Storage Devices",
 	L"Use YAMT",
@@ -166,6 +167,7 @@ language_container_t language_korean = {
 	L"RW mount sa0 and pd0",
 };
 
+// Translation provided by Croden1999
 language_container_t language_chinese_t = {
 	L"存儲設備",
 	L"使用YAMT",
@@ -181,6 +183,7 @@ language_container_t language_chinese_t = {
 	L"挂載讀寫權限至sa0和pd0",
 };
 
+// Translation provided by Croden1999
 language_container_t language_chinese_s = {
 	L"存储设备",
 	L"使用YAMT",
@@ -286,6 +289,7 @@ language_container_t language_portuguese_br = {
 	L"RW mount sa0 and pd0",
 };
 
+// By SKGleba
 language_container_t language_english_gb = {
 	L"Storage Devices",
 	L"Use YAMT",

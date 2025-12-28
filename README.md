@@ -3,6 +3,28 @@ Yet another (re)mount tool kernel plugin for PS Vita/PS TV
 
 Requires enso, compatible ONLY with firmware 3.60 and 3.65.
 
+# Support Languages
+- [ ] Danish
+- [ ] German
+- [x] English
+- [x] English (en-gb) 
+- [ ] Spanish
+- [ ] French
+- [ ] Italian
+- [ ] Dutch
+- [ ] Norwegian
+- [ ] Polish
+- [ ] Portuguese (Brasil)
+- [ ] Portuguese (Portugal)
+- [ ] Russian
+- [ ] Finnish
+- [ ] Swedish
+- [ ] Turkish
+- [ ] Japanese
+- [ ] Korean
+- [x] Chinese Simplified
+- [x] Chinese Traditional
+
 # Features
  - Ability to remount all partitions
  - Clean sd2vita patch system
