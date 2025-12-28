@@ -63,7 +63,7 @@ static int req(uint8_t req, uint8_t wstat) {
 	} else if (req == 2) {
 		ret = kscePervasiveRemovableMemoryGetCardInsertState() ? 1 : 0;
 	} else if (req == 3) {
-		ret = (*(uint32_t *)(*(int *)(ksceKernelGetSysbase() + 0x6c) + 0xD8) & 0x8) != 0 ? 1 : 0; // check AC state in sysroot->kbl_param+0xD8
+		ret = (*(uint32_t *)(*(int *)(ksceSysrootGetSysroot() + 0x6c) + 0xD8) & 0x8) != 0 ? 1 : 0; // check AC state in sysroot->kbl_param+0xD8
 	}
 	if (ret == wstat)
 		return 1;
